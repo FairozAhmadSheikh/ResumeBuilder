@@ -38,8 +38,10 @@ To get started with this application, commence inputting your details into the f
 Initiated by Fairoz Ahmad Sheikh as a component of the AlmaBetter Full-Stack Web Developmentprogram, this project invites contributions. Your contributions are greatly appreciated! To contribute, kindly adhere to the standard GitHub workflow:
 
 1. Fork this repository.
-2. Create a new branch with a descriptive name (`git checkout -b feature/my-new-feature`)
+2. Create a new branch with a descriptive name 
 3. Make your changes.
 4. Test your changes to make sure everything works as expected.
 5. Submit a pull request with a detailed description of your changes.
-
+## Screenshots
+![Resume builder](https://github.com/FairozAhmadSheikh/ResumeBuilder/assets/134375617/d534992c-64fb-41ee-8d4b-205aab4c061d)
+![resume2](https://github.com/FairozAhmadSheikh/ResumeBuilder/assets/134375617/3e74bb27-14dc-415b-813b-fe343d960c62)

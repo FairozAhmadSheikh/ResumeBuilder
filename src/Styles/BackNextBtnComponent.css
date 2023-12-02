@@ -1,0 +1,39 @@
+.back-next-btn-cont {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.MuiButtonBase-root.MuiButton-root.outlined-btn,
+.MuiButtonBase-root.MuiButton-root.contained-btn {
+  text-transform: capitalize;
+  width: 100px;
+  margin-left: 15px; /* Add some spacing between buttons */
+  transition: background-color 0.3s, color 0.3s; /* Smooth transition for color change */
+}
+
+/* Add hover styles for better user interaction */
+.MuiButtonBase-root.MuiButton-root.outlined-btn:hover,
+.MuiButtonBase-root.MuiButton-root.contained-btn:hover {
+  background-color: #4caf50; /* Change background color on hover */
+  color: #fff; /* Change text color on hover */
+  border-color: #4caf50; /* Change border color on hover */
+}
+
+/* Add focus styles for better accessibility */
+.MuiButtonBase-root.MuiButton-root.outlined-btn:focus,
+.MuiButtonBase-root.MuiButton-root.contained-btn:focus {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Add a subtle box shadow on focus */
+  outline: none; /* Remove the default outline */
+}
+
+/* Add a gradient background for a more modern look */
+.MuiButtonBase-root.MuiButton-root.contained-btn {
+  background-image: linear-gradient(to right, #3498db, #2ecc71);
+}
+
+/* Add border-radius for rounded corners */
+.MuiButtonBase-root.MuiButton-root {
+  border-radius: 5px;
+}

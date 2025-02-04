@@ -14,7 +14,7 @@ A web-based platform enabling users to generate a polished resume through a stra
 
 To install and run this application on your local machine, follow these steps:
 
-i. Clone this repository using `git clone https://github.com/`
+i. Clone this repository using `git clone https://github.com/FairozAhmadSheikh/ResumeBuilder'
 
 ii. Navigate to the project directory using `cd resume-builder`
 
